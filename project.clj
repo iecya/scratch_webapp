@@ -6,5 +6,6 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [ring "1.6.1"]
                  [com.layerware/hugsql "0.4.7"]
-                 [org.postgresql/postgresql "9.4.1207"]]
+                 [org.postgresql/postgresql "9.4.1207"]
+                 [org.clojure/tools.namespace "0.2.11"]]
   :main scratch-webapp.core)
